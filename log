@@ -1,0 +1,130 @@
+{
+  "height": 644318,
+  "bestblock": "00000000000000000009e8be69f8b520abb64d21140bffe7d25ff9508684a8bd",
+  "transactions": 40787472,
+  "txouts": 66566047,
+  "bogosize": 4999764410,
+  "hash_serialized_2": "d50ef80f5c4266cf5eedac78f06c358bf2fe6f08bd9b6d51c7c5ff5d738fbf01",
+  "disk_size": 4040437725,
+  "total_amount": 18464310.87865277
+}
+{
+  "height": 644319,
+  "bestblock": "00000000000000000005d235888171b51c58b8ebf4c710d4bd56f91fb9b955d4",
+  "transactions": 40787800,
+  "txouts": 66566508,
+  "bogosize": 4999796810,
+  "hash_serialized_2": "52e99c165d1075cfbf0ec0796746214d7a4c80661f8950319c499ed40acf0657",
+  "disk_size": 4039353640,
+  "total_amount": 18464317.12865277
+}
+{
+  "height": 644320,
+  "bestblock": "0000000000000000000d8aa18af1126d2505af898a68d096a082b59bfdb24ffd",
+  "transactions": 40787516,
+  "txouts": 66567998,
+  "bogosize": 4999904656,
+  "hash_serialized_2": "2df242a666fc2ce8a5eaec693c21af8e163d41a84795f7ec2be6b7e4e541b927",
+  "disk_size": 4040821557,
+  "total_amount": 18464323.37865277
+}
+{
+  "height": 644321,
+  "bestblock": "00000000000000000010431e7086b0eda6f1804c313d3fb23bac2928d88c8d05",
+  "transactions": 40788355,
+  "txouts": 66573301,
+  "bogosize": 5000295262,
+  "hash_serialized_2": "b33a90e0be51fecd4b967a24b30c4000578652035721ecde361a2a633dded620",
+  "disk_size": 4040611671,
+  "total_amount": 18464329.62865277
+}
+{
+  "height": 644322,
+  "bestblock": "00000000000000000005ac06a0df9a70dbc0111e8ac3205cbee519d846014002",
+  "transactions": 40788072,
+  "txouts": 66570709,
+  "bogosize": 5000101683,
+  "hash_serialized_2": "c527e30656366fa8e7ecb968ced4bc41d69194ded1ba7937581979470843fe2a",
+  "disk_size": 4041468673,
+  "total_amount": 18464335.87865277
+}
+{
+  "height": 644323,
+  "bestblock": "0000000000000000000683a01a366ea7382ec455abea3c796137d104c409f4c7",
+  "transactions": 40789386,
+  "txouts": 66571294,
+  "bogosize": 5000144348,
+  "hash_serialized_2": "403bfb3f2b3898f282bd99a986af90f89a35b398b74b2a0e3a1f94ceabb8b3dc",
+  "disk_size": 4041468673,
+  "total_amount": 18464342.12865277
+}
+{
+  "height": 644324,
+  "bestblock": "00000000000000000007e5708db8cce25a10db895aece7e373f7d3063e73ff47",
+  "transactions": 40789323,
+  "txouts": 66570687,
+  "bogosize": 5000099564,
+  "hash_serialized_2": "fcf7dff2d9e4096ec09c51eddce103edcac5776a0dba6e92303038fb46ffcdb1",
+  "disk_size": 4039596707,
+  "total_amount": 18464348.37865277
+}
+{
+  "height": 644325,
+  "bestblock": "0000000000000000000b290e1bbc975d59c18bbee1b6867a9f3d5ae491822cb1",
+  "transactions": 40790973,
+  "txouts": 66573992,
+  "bogosize": 5000343933,
+  "hash_serialized_2": "b177c78211c8630b475afe3ea456b31bbf6728739dc2c2a7e8c1e7cdaa0a54ea",
+  "disk_size": 4041049717,
+  "total_amount": 18464354.62865277
+}
+{
+  "height": 644326,
+  "bestblock": "0000000000000000000d4c1748901ef574e7fd8c2bf23beb3e357b97c20dace4",
+  "transactions": 40791540,
+  "txouts": 66574143,
+  "bogosize": 5000354636,
+  "hash_serialized_2": "67e719d281ff0c04703e68e7b26933f434f78734861adc8c729a963184c0c727",
+  "disk_size": 4041038426,
+  "total_amount": 18464360.87865277
+}
+{
+  "height": 644327,
+  "bestblock": "0000000000000000000d68aaf828bba72f8d16e890b3bc038fdec82bc1fc1c60",
+  "transactions": 40789908,
+  "txouts": 66569600,
+  "bogosize": 5000015606,
+  "hash_serialized_2": "5ab48c8925bb311b010221c96feaad36eeca0f573cd1b43fa960eb50207f37a1",
+  "disk_size": 4039497489,
+  "total_amount": 18464367.12865277
+}
+{
+  "height": 644328,
+  "bestblock": "00000000000000000002062c028b09308062f773de70d75d000a13b9314e98c2",
+  "transactions": 40788885,
+  "txouts": 66567419,
+  "bogosize": 4999856311,
+  "hash_serialized_2": "d9fb275640c7f2cf46bfea9e8e8ba6e1e62641da86ce5d870c0ec2df3df97ce6",
+  "disk_size": 4041087905,
+  "total_amount": 18464373.37865277
+}
+{
+  "height": 644329,
+  "bestblock": "000000000000000000073fa88889542886c856b09464e770c5129da28df50e8e",
+  "transactions": 40789668,
+  "txouts": 66568513,
+  "bogosize": 4999936280,
+  "hash_serialized_2": "a8f8b3380c35331e4fc7ae80e2b3888722fdeff9e2e4dbe1f3cf639fff607ba7",
+  "disk_size": 4041031749,
+  "total_amount": 18464379.62865277
+}
+{
+  "height": 644330,
+  "bestblock": "00000000000000000000f4b092b8f99ca58ef9c7708b672d6efa8416cf9e4164",
+  "transactions": 40790012,
+  "txouts": 66567367,
+  "bogosize": 4999853075,
+  "hash_serialized_2": "070f2baa46cf10d6b7c4141ec0ae432ce954177263930232c20e692970fa1379",
+  "disk_size": 4039453605,
+  "total_amount": 18464385.87865277
+}
